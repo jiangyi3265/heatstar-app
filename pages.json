@@ -1,0 +1,27 @@
+{
+  "pages": [
+    { "path": "pages/index/index", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/auth/login", "style": { "navigationStyle": "custom", "navigationBarTitleText": "登录" } },
+    { "path": "pages/proposal/type", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/proposal/form", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/proposal/list", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/proposal/detail", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/review/list", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/review/detail", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/points/index", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/points/sharing", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/points/candidates", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/points/results", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/profile/index", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/admin/notices", "style": { "navigationStyle": "custom" } },
+    { "path": "pages/admin/export", "style": { "navigationStyle": "custom" } }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "热创星",
+    "navigationBarBackgroundColor": "#fbfaf7",
+    "backgroundColor": "#f3f2ee",
+    "backgroundTextStyle": "dark"
+  },
+  "easycom": { "autoscan": true }
+}
